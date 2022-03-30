@@ -1,4 +1,4 @@
-### Ola! Eu Sou Eduardo Franca 😁
+### Hi! I'm BETTERexe 😁
 
 
 ![BETTERexe GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERexe&show_icons=true&theme=midnight-purple)
