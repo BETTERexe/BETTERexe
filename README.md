@@ -1,13 +1,13 @@
-### Hi! I'm BETTERexe 😁
+<div align="center">
+ Hi! I'm BETTERexe 😁 
 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
-![BETTERexe GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERexe&show_icons=true&theme=midnight-purple)
+![BETTERexe GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERexe&show_icons=true&theme=midnight-purple) 
 
-
-
-## Linguagens que Tenho interesse
+## Linguagens que Tenho interesse 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -17,6 +17,8 @@
   <img align="center" alt="javascritp" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 ##  OS
 <div style="display: inline_block"><br/>
    <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
